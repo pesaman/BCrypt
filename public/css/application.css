@@ -1,0 +1,47 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+th {
+  text-align: left;
+}
+div {
+   background-color: #7FFFD4;
+}
+
+.warning {
+  margin: 0 auto ;
+  display: block;
+  border: none;
+  color : black;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  background-color: #FFBABA;
+  width: 600px;
+}
+.correct {
+  margin: 0 auto ;
+  display: block;
+  border: none;
+  color : black;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  background-color: #7FFF00;
+  width: 600px;
+}
+div#slot-machine {
+  width: 406px;
+  height: 331px;
+  background: url("../4.jpg") no-repeat;
+  margin: 0 auto;
+}
+div#slot {
+  width: 406px;
+  height: 331px;
+  background: url("../5.jpg") no-repeat;
+  margin: 0 auto;
+}
